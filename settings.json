@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Administrator",
+    "username": "Administrator11",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "goodoldserver.falix.me",
     "port": 55705,
     "version": "1.8.8",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
