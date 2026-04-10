@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "goodoldserver.falix.me",
-    "port": 55705,
+    "ip": "muros2.aternos.me",
+    "port": 17186,
     "version": "1.9",
     "try-creative": true
   },
