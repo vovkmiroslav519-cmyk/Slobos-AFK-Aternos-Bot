@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Administrator11",
+    "username": "Administrator",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "goodoldserver.falix.me",
     "port": 55705,
-    "version": "1.8.8",
+    "version": "1.9",
     "try-creative": true
   },
   "position": {
