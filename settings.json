@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Administrator",
+    "username": "iddqd1337",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "muros2.aternos.me",
-    "port": 17186,
+    "ip": "goodoldserver.falix.me",
+    "port": 55705,
     "version": "1.9",
     "try-creative": true
   },
