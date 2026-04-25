@@ -9,7 +9,7 @@
     "ip": "goodoldserver.falix.me",
     "port": 55705,
     "version": "1.9",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -59,7 +59,7 @@
   },
   "modules": {
     "avoidMobs": false,
-    "combat": false,
+    "combat": true,
     "beds": false,
     "chat": true,
     "console-commands": true
